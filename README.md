@@ -9,7 +9,6 @@ Uses the power of JPanels and JOptionpanes to handle the GUI aspect of the game!
 
 -Java needed to run the program
 
-
 -All images used are as shown in their respective directories
 
 -GUI based off of Nintendo characters
@@ -19,3 +18,12 @@ https://drive.google.com/file/d/1gPsbL70Y8z-aBEdM0y_SjevaCharn8YH/view?usp=share
 
 Here's a cheat sheet for the riddles/questions asked in the game
 https://docs.google.com/document/d/1Txxx4HWqsysJhoRAYbr3LtYCDPqOYaE41Y2h_Ve3FfY/edit?usp=sharing
+
+# Setup
+In total, you need 3 folders in src to run the program: 
+
+-"view" folder(Mario-Maze2)
+
+-"cont" folder(Mario-Maze1)
+
+-"mod" folder(Mario-Maze1)
